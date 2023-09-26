@@ -1,0 +1,189 @@
+@media (max-width: 991px){
+    
+}
+
+
+@media (max-width: 776px){
+    #header .uni-header-top .uni-header-top-right {
+        width: 50%;
+    }
+    #header .uni-header-top .uni-header-top-left {
+        width: 50%;
+    }
+    #header .uni-header-top .uni-header-top-right ul li a {
+        font-size: 13px!important;
+        width: 14px!important;
+    }
+    #header .uni-header-top .uni-header-top-right ul li span {
+        font-size: 14px;
+        width: 32px!important;
+    }
+    #header .logo {
+        width: 80%;
+    }
+    #header .logo img {
+        max-height: unset!important;
+        width: 80px;
+    }
+    .navbar a {
+        display: block!important;
+        text-align: center!important;
+    }
+    .navbar-mobile a:hover, .navbar-mobile a:focus {
+        color: #ffdf49;
+    }
+        .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
+        color: #ffdf49;
+    }
+    .header-scrolled .logo img {
+        height: 50px !important;
+        width: auto!important;
+    }
+    .col-md-6.col-sm-6 {
+        width: 50%;
+    }
+
+    .sounds_header_right {
+        font-size: 16px!important;
+    }
+     .sounds_header_left {
+        font-size: 16px!important;
+    }
+    .about-bg {
+        width: 90%;
+        margin: 0px auto;
+    }
+    .section-header p {
+        text-align: justify!important;
+        font-size: 14px;
+        }
+    #about {
+        padding: 40px 0px!important;
+        }
+    .section-header .more {
+        text-align: center!important;
+        margin-top: 40px;
+    }
+    #news {
+        padding: 40px 15px 10px!important;
+        background-size: cover!important;
+    }
+    #news .cta-btn {
+        margin-bottom: 30px!important;
+    }
+    #news .news-col li img {
+        display: block;
+        margin: 0px auto 15px;
+        max-height: unset;
+    }
+    #news .news-col ul li a {
+        font-size: 14px;
+    }
+    #audios {
+        padding: 30px 0 0 0;
+    }
+    #call-to-action {
+        padding: 50px 18px!important;
+    }
+    #call-to-action a.video_img {
+        width: 87%;
+        margin: 10px auto 15px;
+    }
+    #call-to-action .align-middle {
+        display: block!important;
+        width: 77%;
+        margin: 0px auto;
+    }
+    #call-to-action a.video_img i {
+        top: 76px!important;
+        right: 50%!important;
+    }
+    .col-sm-6 {
+        width: 50%;
+    }
+    #call-to-action .cta-btn {
+        margin-top: -20px;
+    }
+
+    #books {
+        padding: 40px 0!important;
+    }
+    #fatawa {
+        padding: 0px 15px 40px!important;
+    }
+    #fatawa .border2 {
+        border-left: none!important;
+        padding-left: 9px!important;
+        margin-right: unset!important;
+    }
+
+    #fatawa h3{
+        margin-top: 40px;
+    }
+    #fatawa .carousel-control-next, .carousel-control-prev {
+        margin: 0px 0px 45px!important;
+    }
+    #sites {
+        padding: 40px 0px!important;
+        }
+    #sites .sh_sites_img img {
+        width: 80px;
+    }
+    .more.mt-5 {
+        margin-top: 1rem!important;
+    }
+    #footer .footer-top {
+        text-align: center!important;
+    }
+    #footer .footer-top .footer-links ul li {
+        padding: 3px 0;
+    }
+    #footer .footer-top {
+        padding: 20px 0 15px 0;
+    }
+    .col-lg-3.col-md-6.footer-info img {
+        width: 95px;
+    }
+
+    .back-to-top {
+        display: none!important;
+        }
+    #footer .footer-top .footer-links {
+        width: 50%;
+
+    }
+    #footer .footer-top h4{
+        margin-bottom: 4px!important;
+    }
+   #footer .footer-top h4:first-child {
+        margin-bottom: 16px!important;
+    }
+    #footer .footer-top .footer-links ul a {
+        font-size: 15px;
+    }
+    #footer .footer-top .footer-info {
+        margin-bottom: 10px;
+    }
+
+    .footer-top .footer-contact p {
+        margin-bottom: 12px;
+    }
+
+  .col-sm-6 {
+        width: 50%;
+    }
+    #hero p{
+        line-height: 25px;
+        direction: rtl;
+    }
+    .carousel-indicators{
+        bottom: 10px;
+    }
+    #fatawa .carousel-item img{
+        width: 75%;
+    }
+    #fatawa .carousel-indicators{
+        margin-top: 15px;
+    }
+
+}
